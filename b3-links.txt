@@ -1,0 +1,10 @@
+https://github.com/eventanilha82/b3-workshop/
+
+cloud.oracle.com
+
+Tenancy: b3sabrasilbolsabalcao
+
+https://docs.oracle.com/pt-br/iaas/Content/generative-ai-agents/overview.htm
+
+
+eduardo.ventanilha@oracle.com
